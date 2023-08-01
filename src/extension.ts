@@ -40,7 +40,7 @@ export function activate(context: vscode.ExtensionContext) {
 
 			await vscode.env.clipboard.writeText(lines.join('\n'));
 
-			vscode.window.showInformationMessage('ComGosu: Copied with lines!');
+			vscode.window.showInformationMessage('ComGosu: Copied with lines!\n' + lines.join('\n'));
 		}
 	);
 	context.subscriptions.push(disposable);

@@ -2,6 +2,10 @@
   "name": "vscode-comgosu",
   "displayName": "ComGosu",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lopld/vscode-comgosu"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
@@ -15,7 +19,7 @@
     "commands": [
       {
         "command": "vscode-comgosu.copyCodeWithLines",
-        "title": "ComGosu: CopyCodeWithLines"
+        "title": "ComGosu: vscode-comgosu.copyCodeWithLines"
       }
     ]
   },

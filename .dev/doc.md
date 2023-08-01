@@ -1,6 +1,6 @@
 #
 
-## 참고 Links
+## 참고한 문서들
 
 - <https://velog.io/@93minki/VSCode-Extension-%EB%A7%8C%EB%93%A4%EA%B8%B0>
 

@@ -1,4 +1,4 @@
-// import * as vscode from "vscode";
+import * as vscode from "vscode";
 
-// console.log(`Hello from test.ts {}`, vscode.workspace.workspaceFolders);
+console.log(`Hello from test.ts {}`, vscode.workspace.workspaceFolders);
 console.log("Hello from test.ts");

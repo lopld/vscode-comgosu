@@ -8,5 +8,5 @@
 
 ## 배포하기
 
-- `npm install -g vsce` 패키지를 설치하고
+- `pnpm i -D @vscode/vsce` 패키지를 설치하고
 - `vsce package` 명령을 실행한다.
